@@ -1,4 +1,4 @@
-# pagination
+# Pagination
 
 A simple React.js application demonstrating client-side pagination.
 
